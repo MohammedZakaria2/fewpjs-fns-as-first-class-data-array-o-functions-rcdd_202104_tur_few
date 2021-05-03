@@ -1,3 +1,3 @@
-const wakeDog = () => {
+function  wakeDog() {
   
 }
